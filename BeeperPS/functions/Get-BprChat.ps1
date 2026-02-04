@@ -24,6 +24,7 @@ function Get-BprChat {
     .EXAMPLE
     Get-BprChat -All
     #>
+	[OutputType([System.Object[]])]
 	[CmdletBinding()]
 	param(
 		[string]$ChatId,
