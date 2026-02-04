@@ -13,7 +13,7 @@
 	GUID              = '22b59a4c-21fb-46b0-9048-1ce615f744bc'
 
 	# Author of this module
-	Author            = ''
+	Author            = 'Andrew Pla with a little help from Fred'
 
 	# Company or vendor of this module
 	CompanyName       = 'MyCompany'
